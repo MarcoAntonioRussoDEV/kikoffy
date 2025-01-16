@@ -3,7 +3,7 @@ module.exports = {
 };
 const nextConfig = {
     basePath: "/kikoffy",
-    output: "export", // <=== enables static exports
+    output: "export", // <=== enables static exports ada
     reactStrictMode: true,
     distDir: "dist",
 };
