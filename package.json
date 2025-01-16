@@ -2,7 +2,8 @@
   "private": "true",
   "scripts": {
     "dev": "next",
-    "build": "next build %% next export",
+    "export": "next export",
+    "build": "next build && next export",
     "postbuild": "next-sitemap",
     "start": "next start"
   },
