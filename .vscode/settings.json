@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {
+            "tab.activeBorderTop": "#00FF00",
+            "tab.unfocusedActiveBorderTop": "#00FF0088",
+            "textCodeBlock.background": "#00000055"
+        },
+        "editor.wordHighlightStrongBorder": "#FF6347",
+        "editor.wordHighlightBorder": "#FFD700",
+        "editor.selectionHighlightBorder": "#A9A9A9",
+        "folderPathColor.custom1": "#b020c0",
+        "activityBar.background": "#26311C",
+        "titleBar.activeBackground": "#354427",
+        "titleBar.activeForeground": "#FAFBF9"
+    }
+}

@@ -1,0 +1,132 @@
+{
+  "title": "",
+  "intro": "/images/1Group 81.jpg",
+  "hero": "/images/hero.jpg",
+  "headingOne": "Kikoffy è sinonimo di qualità\ne professionalità made in Italy",
+  "itemsZero": [
+    {
+      "item": {
+        "text": "Kikoffy è sinonimo di qualità\ne professionalità made in Italy",
+        "image": "/images/Group 82.jpg"
+      }
+    },
+    {
+      "item": {
+        "text": "Con le nostre miscele selezionate dai nostri sommelier, Kikoffy è in grado di soddisfare anche i palati più esigenti.",
+        "image": "/images/Group 83.jpg"
+      }
+    },
+    {
+      "item": {
+        "text": "Scegli la tua miscela e goditi il piacere di un buon espresso italiano!",
+        "image": "/images/Group 84.jpg"
+      }
+    }
+  ],
+  "itemsOne": [
+    {
+      "item": {
+        "heading": "INTENSO",
+        "text": "Per gli amanti del caffè più deciso, questa è la miscela giusta! Se sei alla ricerca di un caffè deciso con spiccate note di cacao amaro, il nostro Kikoffy INTENSO è quello che fa per te. La prevalenza della robusta ti darà la carica per affrontare alla grande la tua giornata!",
+        "icon": "/images/bean.svg",
+        "color": "#AD2D14"
+      }
+    },
+    {
+      "item": {
+        "heading": "PREZIOSO",
+        "text": "Il caffè giusto per ogni momento della tua giornata. L’aroma dell’arabica, miscelata sapientemente con la robusta, dona cremosità ed armoniosità alla nostra miscela Kikoffy Prezioso di cui non ti stancherai mai.",
+        "icon": "/images/bean.svg",
+        "color": "#B7965A"
+      }
+    },
+    {
+      "item": {
+        "heading": "100% ARABICA",
+        "text": "La pianta più pregiata e ricercata.\nI chicchi sono accuratamente\nselezionati e tostati per poter donare al tuo palato un’esplosione di gusto cherenderà il tuo momento Kikoffy 100% arabica speciale ad ogni sorso.",
+        "icon": "/images/bean.svg",
+        "color": "#A0A0A0"
+      }
+    },
+    {
+      "item": {
+        "heading": "DECA",
+        "text": "Decaffeinato non significa più senza gusto. Goditi un vero caffè con l’estrazione della caffeina fatta in maniera 100% naturale. È tornato il momento di goderti il piacere di un buon caffè quando vuoi grazie a Kikoffy Deca!",
+        "icon": "/images/bean.svg",
+        "color": "#78C0FF"
+      }
+    },
+    {
+      "item": {
+        "heading": "GINSENG",
+        "text": "Sei alla ricerca di qualcosa di più energico quando hai bisogno di maggiore sprint? Kikoffy GINSENG è ciò che fa per te! L’armonia tra il nostro caffè e le radici di Ginseng troverai la giusta carica per affrontare le tue giornate.",
+        "icon": "/images/root.svg",
+        "color": "#89B2B1"
+      }
+    },
+    {
+      "item": {
+        "heading": "ORZO",
+        "text": "Non puoi bere caffè ma non vuoi nemmeno perderti un momento Kikoffy tutto per te? Scegli il nostro Kikoffy Orzo e prenditi il break giusto per la tua giornata.",
+        "icon": "/images/root.svg",
+        "color": "#C1A150"
+      }
+    },
+    {
+      "item": {
+        "heading": "THE AL LIMONE",
+        "text": "Goditi un momento di relax con Kikoffy The al limone. Ideale da bere caldo, sorprendente da ghiacciato, questa capsula sarà indispensabile nelle vostre cucine per un momento da godere da soli o in compagnia.",
+        "icon": "/images/cup.svg",
+        "color": "#FAEFB0"
+      }
+    }
+  ],
+  "headingTwo": "Storia",
+  "textOne": "Kikoffy nasce dalla radicata conoscenza del mondo del caffè, sviluppata attraverso l’esperienza ultradecennale di produzione e commercializzazione in Italia e nel mondo.\n\n\nAbbiamo un prodotto di qualità, frutto di un percorso che ha inizio in piantagioni selezionate e si conclude con il profumo del caffè assaporato comodamente a casa.\n\n\nKikoffy mira a diventare rapidamente leader di settore in Italia e sta già esportando il suo format all’estero.",
+  "imageOne": "/images/boxes.png",
+  "headingThree": "Abbiamo sviluppato un’esperienza di acquisto nuova e unica, che permette di scegliere quale caffè si desidera e quanto se ne desidera, in tutta libertà. Ecco le nostre caratteristiche:",
+  "textTwo": " - Il nostro è un brand di garanzia e qualità\n - Un percorso dalla passione della produzione al piacere di gustare un buon caffè dove vuoi tu\n - Bere il nostro caffè è un’esperienza: Kikoffy Experience\n - Selezioniamo con accuratezza le nostre materie prime\n - Conosciamo il mercato del caffè\n - Mettiamo tanta passione in tutto quello che facciamo\n - Il nostro caffè ha un gusto intenso, unico e bilanciato",
+  "anim": "/images/anim.lottie",
+  "headingFour": "Le miscele Kikoffy sono disponibili anche in capsule compatibili per tutti i sistemi più diffusi:",
+  "itemsTwo": [
+    {
+      "item": {
+        "heading": "Capsule Kikoffy",
+        "icon": "/images/2 1.png",
+        "price": "0,50€"
+      }
+    },
+    {
+      "item": {
+        "heading": "Compatibile Nespresso®",
+        "icon": "/images/image 2.png",
+        "price": "0,50€"
+      }
+    },
+    {
+      "item": {
+        "heading": "Compatibile Lavazza A Modo Mio®",
+        "icon": "/images/1 1.png",
+        "price": "0,50€"
+      }
+    },
+    {
+      "item": {
+        "heading": "Compatibile Nescafè Dolce Gusto®",
+        "icon": "/images/IMAGE 2024-03-01 19_55_29 1.png",
+        "price": "0,60€"
+      }
+    },
+    {
+      "item": {
+        "heading": "Cialde Kikoffy ®",
+        "icon": "/images/coffee-pods 1.png",
+        "price": "0,30€"
+      }
+    }
+  ],
+  "headingFive": "Contatti",
+  "headingSix": "CONTATTACI PER ASSISTENZA O PER QUALUNQUE INFORMAZIONE!",
+  "mapText": "**Kikoffy**\n\n**Address**\n**Telefono fisso:** [+393791224148](tel:+393791224148)\n**Cellulare e whatsapp:** [+393791224148](tel:+393791224148)\n",
+  "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4465.394084084113!2d11.4239238628703!3d44.466954488062626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e2bca6cc056e3%3A0x197cd15975ad9ca0!2sVia%20Remigia%2C%2015%2C%2040068%20San%20Lazzaro%20di%20Savena%20BO%2C%20Italy!5e0!3m2!1sen!2s!4v1705468407958!5m2!1sen!2s"
+}

@@ -1,0 +1,45 @@
+{
+  "logo": "/images/logo.svg",
+  "logoLight": "/images/logo-light.png",
+  "write": "Scrivici",
+  "placeholder": "Enter your mail",
+  "button": "inviare",
+  "phoneIcon": "/images/phone.svg",
+  "mailIcon": "/images/mail.svg",
+  "phone": "+393791224148",
+  "mail": "assistenza@eleva-corporate.com",
+  "links": [
+    {
+      "item": {
+        "text": "Storia",
+        "link": "#storia"
+      }
+    },
+    {
+      "item": {
+        "text": "Caffé",
+        "link": "#caffe"
+      }
+    },
+    {
+      "item": {
+        "text": "Contatti",
+        "link": "#contatti"
+      }
+    }
+  ],
+  "socials": [
+    {
+      "item": {
+        "icon": "/images/insta.svg",
+        "link": "https://instagram.com/"
+      }
+    },
+    {
+      "item": {
+        "icon": "/images/facebook.svg",
+        "link": "https://www.facebook.com/"
+      }
+    }
+  ]
+}
