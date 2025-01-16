@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://kikoffy.attoliniagency.com
-
-# Sitemaps
-Sitemap: https://kikoffy.attoliniagency.com/sitemap.xml
