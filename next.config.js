@@ -2,10 +2,10 @@ module.exports = {
     staticPageGenerationTimeout: 240,
 };
 const nextConfig = {
-    basePath: "/kikoffy",
-    output: "export", // <=== enables static exports ada
-    reactStrictMode: true,
-    distDir: "dist",
+    output: "export", // <=== enables static exports
+    images: {
+        unoptimized: true,
+    },
 };
 
 module.exports = nextConfig;
